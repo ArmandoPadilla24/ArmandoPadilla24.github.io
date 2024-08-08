@@ -2,134 +2,98 @@
 <doc>
 <assembly>
 <name>
-ColmenWeb
+PruebaWeb
 </name>
 </assembly>
 <members>
-<member name="T:ColmenWeb.My.MyWebExtension">
+<member name="T:PruebaWeb.My.MyWebExtension">
  <summary>
  Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
  </summary>
  <remarks></remarks>
 </member>
-<member name="P:ColmenWeb.My.MyWebExtension.Computer">
+<member name="P:PruebaWeb.My.MyWebExtension.Computer">
  <summary>
  Devuelve información sobre el equipo host.
  </summary>
 </member>
-<member name="P:ColmenWeb.My.MyWebExtension.User">
+<member name="P:PruebaWeb.My.MyWebExtension.User">
  <summary>
  Devuelve información del usuario web actual.
  </summary>
 </member>
-<member name="P:ColmenWeb.My.MyWebExtension.Request">
+<member name="P:PruebaWeb.My.MyWebExtension.Request">
  <summary>
  Devuelve un objeto Request.
  </summary>
 </member>
-<member name="P:ColmenWeb.My.MyWebExtension.Response">
+<member name="P:PruebaWeb.My.MyWebExtension.Response">
  <summary>
  Devuelve un objeto Response.
  </summary>
 </member>
-<member name="P:ColmenWeb.My.MyWebExtension.Log">
+<member name="P:PruebaWeb.My.MyWebExtension.Log">
  <summary>
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
-<member name="F:ColmenWeb.Acceso._form1">
+<member name="F:PruebaWeb.SiteMaster._MainContent">
 <summary>
-Control form1.
+Control MainContent.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:ColmenWeb.Acceso._txtUsuario">
+<member name="F:PruebaWeb.Site_Mobile._Head1">
 <summary>
-Control txtUsuario.
+Control Head1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:ColmenWeb.Acceso._txtClave">
+<member name="F:PruebaWeb.Site_Mobile._HeadContent">
 <summary>
-Control txtClave.
+Control HeadContent.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:ColmenWeb.Acceso._btnEntrar">
+<member name="F:PruebaWeb.Site_Mobile._form1">
 <summary>
-Control btnEntrar.
+control form1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:ColmenWeb.Principal._form1">
+<member name="F:PruebaWeb.Site_Mobile._FeaturedContent">
 <summary>
-Control form1.
+Control FeaturedContent.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:ColmenWeb.Principal._lblCliNom">
+<member name="F:PruebaWeb.Site_Mobile._MainContent">
 <summary>
-Control lblCliNom.
+Control MainContent.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:ColmenWeb.Principal._grwVideo">
+<member name="F:PruebaWeb.Site_Mobile._ViewSwitcher1">
 <summary>
-Control grwVideo.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:ColmenWeb.WebForm1._form1">
-<summary>
-Control form1.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:ColmenWeb.WebForm1._lblCliNom">
-<summary>
-Control lblCliNom.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:ColmenWeb.WebForm1._lblPedNom">
-<summary>
-Control lblPedNom.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:ColmenWeb.WebForm1._grwVideo">
-<summary>
-Control grwVideo.
+Control ViewSwitcher1.
 </summary>
 <remarks>
 Campo generado automáticamente.
